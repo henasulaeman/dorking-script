@@ -1866,3 +1866,4 @@ allintitle: restricted filetype:doc site:gov
 allintitle:*.php?filename=*
 allintitle:*.php?page=*
 allintitle:*.php?logon=*
+db_password file type:env
