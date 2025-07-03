@@ -1867,3 +1867,4 @@ allintitle:*.php?filename=*
 allintitle:*.php?page=*
 allintitle:*.php?logon=*
 db_password file type:env
+filetype:xlsx AND intext:PASSWORD
